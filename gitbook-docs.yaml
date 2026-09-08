@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tutorials
+  structure:
+    - type: space
+      key: space-1
+      title: Tutorials
+      path: tutorials
+      default: true
+      content:
+        directory: ./tutorials

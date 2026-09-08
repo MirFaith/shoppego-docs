@@ -8,4 +8,4 @@ site:
       path: tutorials
       default: true
       content:
-        directory: ./tutorials
+        directory: ./

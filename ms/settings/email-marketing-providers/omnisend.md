@@ -1,5 +1,5 @@
 ---
-description: "Tutorial Penetapan Omnisend"
+description: Tutorial Penetapan Omnisend
 ---
 
 # Omnisend
@@ -8,9 +8,9 @@ Untuk buat penetapan **Omnisend**, anda perlu dapatkan **API Key** dari **Omnise
 
 ## Log masuk akaun Omnisend
 
-1. Anda boleh log masuk kedalam akaun Omnisend [<mark style="color:blue;">**di sini**</mark>](https://app.omnisend.com/login) atau pada link ini: <https://app.omnisend.com/login>
+1. Anda boleh log masuk kedalam akaun Omnisend [<mark style="color:blue;">**di sini**</mark>](https://app.omnisend.com/login) atau pada link ini: [https://app.omnisend.com/login](https://app.omnisend.com/login)
 
-<figure><img src="../../../.gitbook/assets/lLGDmexv6uuRIm6Gwo4L.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/btba1zTnncZGRX2d342W.png" alt=""><figcaption></figcaption></figure>
 
 ## Dapatkan API key Omnisend
 
@@ -42,21 +42,21 @@ Untuk buat penetapan **Omnisend**, anda perlu dapatkan **API Key** dari **Omnise
 
 2. Selepas itu, anda boleh tekan pada **Email Marketing Provider**.
 
-<figure><img src="../../../.gitbook/assets/XRu0HKEGisJFRJ08jbPE.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ceUEe1Um6B1rRxVGuYPo.jpg" alt=""><figcaption></figcaption></figure>
 
 3. Pada halaman ini, anda akan perlu tekan butang **Activate** untuk **mengaktifkan Omnisend** dan tekan **Edit**.
 
-<figure><img src="../../../.gitbook/assets/9PQHboGL5YVS8rx2d3jP.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3NzLWu9bweEwLLZnL6GB.jpg" alt=""><figcaption></figcaption></figure>
 
-4. Anda perlu masukkan **API key** yang anda telah dapat dari **Omnisend** kedalam ruang yang disediakan. Anda juga boleh letakkan **Tag**.&#x20;
+4. Anda perlu masukkan **API key** yang anda telah dapat dari **Omnisend** kedalam ruang yang disediakan. Anda juga boleh letakkan **Tag**.
 
 {% hint style="info" %}
-\*\*<mark style="color:red;">**Perhatian**</mark> :&#x20;
+\*\*<mark style="color:red;">**Perhatian**</mark> :
 
-* **Tag** - Digunakan untuk meletakkan pelanggan yang berdaftar kedalam kumpulan yang anda mahukan.&#x20;
+* **Tag** - Digunakan untuk meletakkan pelanggan yang berdaftar kedalam kumpulan yang anda mahukan.
 * Jika anda ingin memasukkan **Tag** lebih dari satu, anda boleh letakkan **koma** pada **Tag** tersebut.\
   **Contoh** : Marketing&#x31;**,**&#x4D;arketing2
-  {% endhint %}
+{% endhint %}
 
 5. Pastikan anda hidupkan toggle **Enable** untuk menggunakan **Omnisend**.
 

@@ -10,11 +10,11 @@ Log masuk ke akaun Shoppego anda -> Klik pada **Products** -> **Add product.**
 
 ![](../../.gitbook/assets/JVCockxjBTFJq4UGqL3z.png)
 
-### 1 : Maklumat Produk&#x20;
+### 1 : Maklumat Produk
 
 Anda akan dibawa ke pages product. Disitu anda perlu masukkan details produk anda seperti:
 
-<table><thead><tr><th width="263">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td><strong>Nama produk anda</strong></td></tr><tr><td><strong>Description</strong></td><td><strong>Huraian produk anda (Seperti saiz, warna dan lain - lain)</strong></td></tr><tr><td><strong>Categories</strong></td><td><strong>Kategori bagi produk tersebut (By default sistem kami akan pilihkan kategori featured untuk setiap produk baru yang anda buat)</strong></td></tr><tr><td><strong>Price</strong></td><td> <strong>Harga promo produk anda atau Harga yang pelanggan akan bayar semasa checkout</strong></td></tr><tr><td><strong>Compare at price</strong></td><td><strong>Harga asal produk anda tanpa sebarang diskaun</strong></td></tr><tr><td><strong>Manage stock</strong></td><td><strong>Anda perlu enable fungsi ini jika produk anda mempunyai kuantiti tertentu.</strong></td></tr><tr><td><strong>SKU(Stock Keeping Unit)</strong></td><td> <strong>Anda boleh gunakan fungsi ini jika anda ingin pantau prestasi produk anda menggunakan SKU dan bukannya nama variants</strong></td></tr><tr><td><strong>Stock</strong></td><td><strong>Masukkan kuantiti produk anda pada location Default store anda(Jika anda enable fungsi Manage stock tersebut)</strong></td></tr><tr><td><strong>Edit locations</strong></td><td><strong>Anda boleh klik pada teks ini jika anda ingin matikan stock ini pada lokasi tertentu</strong></td></tr><tr><td><strong>Published</strong></td><td><strong>Pastikan fungsi ini anda enable supaya produk anda akan dapat dilihat pada website anda.</strong></td></tr><tr><td><strong>Require Shipping or Pickup</strong></td><td><strong>Enable fungsi ini jika produk yang anda jual memerlukan penghantaran.</strong></td></tr><tr><td><strong>Hidden</strong></td><td><strong>Jika anda ingin hide produk anda daripada customer dan hanya share produk tersebut kepada orang - orang tertentu anda boleh enable fungsi ini.</strong></td></tr></tbody></table>
+<table><thead><tr><th width="263">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td><strong>Nama produk anda</strong></td></tr><tr><td><strong>Description</strong></td><td><strong>Huraian produk anda (Seperti saiz, warna dan lain - lain)</strong></td></tr><tr><td><strong>Categories</strong></td><td><strong>Kategori bagi produk tersebut (By default sistem kami akan pilihkan kategori featured untuk setiap produk baru yang anda buat)</strong></td></tr><tr><td><strong>Price</strong></td><td><strong>Harga promo produk anda atau Harga yang pelanggan akan bayar semasa checkout</strong></td></tr><tr><td><strong>Compare at price</strong></td><td><strong>Harga asal produk anda tanpa sebarang diskaun</strong></td></tr><tr><td><strong>Manage stock</strong></td><td><strong>Anda perlu enable fungsi ini jika produk anda mempunyai kuantiti tertentu.</strong></td></tr><tr><td><strong>SKU(Stock Keeping Unit)</strong></td><td><strong>Anda boleh gunakan fungsi ini jika anda ingin pantau prestasi produk anda menggunakan SKU dan bukannya nama variants</strong></td></tr><tr><td><strong>Stock</strong></td><td><strong>Masukkan kuantiti produk anda pada location Default store anda(Jika anda enable fungsi Manage stock tersebut)</strong></td></tr><tr><td><strong>Edit locations</strong></td><td><strong>Anda boleh klik pada teks ini jika anda ingin matikan stock ini pada lokasi tertentu</strong></td></tr><tr><td><strong>Published</strong></td><td><strong>Pastikan fungsi ini anda enable supaya produk anda akan dapat dilihat pada website anda.</strong></td></tr><tr><td><strong>Require Shipping or Pickup</strong></td><td><strong>Enable fungsi ini jika produk yang anda jual memerlukan penghantaran.</strong></td></tr><tr><td><strong>Hidden</strong></td><td><strong>Jika anda ingin hide produk anda daripada customer dan hanya share produk tersebut kepada orang - orang tertentu anda boleh enable fungsi ini.</strong></td></tr></tbody></table>
 
 ![](../../.gitbook/assets/r5Gcv85Mxvy2KYtIkZNO.png)
 
@@ -34,14 +34,14 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 \
 1\. Klik pada **View inventory logs**.
 
-![](../../.gitbook/assets/woEkykkWCZkh7SCjw5rk.png)
+![](../../.gitbook/assets/Im6z1UER7V8g7fKt4jeb.png)
 
 \
 2\. Pada ruangan ini akan tercatat segala perubahan yang dilakukan pada bahagian quantity stock produk.
 
 ![](../../.gitbook/assets/mVqSfbt6ljNF5O79En1N.png)
 
-<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong> </td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong> </td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong> </td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong> </td><td>Merujuk kepada nilai terbaru stock </td></tr></tbody></table>
+<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong></td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong></td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong></td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong></td><td>Merujuk kepada nilai terbaru stock</td></tr></tbody></table>
 
 ### 2 : Stok Produk
 
@@ -77,7 +77,7 @@ Setelah selesai masukkan details produk anda, anda boleh masukkan gambar untuk p
 
 <figure><img src="../../.gitbook/assets/LskFmnVlJWeWlPCOYuHa.jpg" alt=""><figcaption></figcaption></figure>
 
-2\. Seterusnya, klik pada **Add image** dan masukkan gambar yang anda inginkan. Anda boleh masukkan seberapa banyak gambar yang anda inginkan.&#x20;
+2\. Seterusnya, klik pada **Add image** dan masukkan gambar yang anda inginkan. Anda boleh masukkan seberapa banyak gambar yang anda inginkan.
 
 {% hint style="info" %}
 (**Saiz terbaik produk**: 1000px X 1000px | **Saiz gambar terbaik**: Kurang dari 200kb)
@@ -85,7 +85,7 @@ Setelah selesai masukkan details produk anda, anda boleh masukkan gambar untuk p
 
 <figure><img src="../../.gitbook/assets/q2HKmMqjJx8LegeL7ObV.jpg" alt=""><figcaption></figcaption></figure>
 
-3\. Setelah anda berjaya muat naik gambar produk anda, popup **"Uploaded"** akan terpapar pada skrin tersebut.&#x20;
+3\. Setelah anda berjaya muat naik gambar produk anda, popup **"Uploaded"** akan terpapar pada skrin tersebut.
 
 {% hint style="info" %}
 Jika anda ingin susun gambar produk tersebut anda boleh **drag button anak panah dan susun kedudukan gambar produk anda**.
@@ -93,12 +93,12 @@ Jika anda ingin susun gambar produk tersebut anda boleh **drag button anak panah
 
 <figure><img src="../../.gitbook/assets/acNkocpuZCX72Rg2HCUV.jpg" alt=""><figcaption></figcaption></figure>
 
-## &#x20;Bahagian 4 : Label Produk
+## Bahagian 4 : Label Produk
 
-Jika anda ingin mempunyai **label pada produk** anda, boleh rujuk tutorial dibawah :&#x20;
+Jika anda ingin mempunyai **label pada produk** anda, boleh rujuk tutorial dibawah :
 
 {% content-ref url="../online-store/metafield/product-metafield.md" %}
-[Product Metafield](../online-store/metafield/product-metafield.md)
+[product-metafield.md](../online-store/metafield/product-metafield.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/u6f7fBSui5HBnJzcQ8se.png" alt=""><figcaption></figcaption></figure>

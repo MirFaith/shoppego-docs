@@ -1,20 +1,21 @@
 ---
-description: "Panduan penetapan akaun Lekirpay"
+description: Panduan penetapan akaun Lekirpay
 ---
 
 # Lekirpay
 
 ## Pendaftaran akaun Lekirpay
 
-Klik di link ini [http://app.lekirpay.com/validate?referralid=RL000316](<http://app.lekirpay.com/validate?referralid=RL000316
->) untuk mula daftar akaun Lekirpay anda.&#x20;
+Klik di link ini \[http://app.lekirpay.com/validate?referralid=RL000316]\(\<http://app.lekirpay.com/validate?referralid=RL000316
+
+> ) untuk mula daftar akaun Lekirpay anda.
 
 {% hint style="success" %}
-Bagi proses pendaftaran akaun Lekirpay anda perlu pastikan anda sudah :&#x20;
+Bagi proses pendaftaran akaun Lekirpay anda perlu pastikan anda sudah :
 
-* Mempunyai SSM&#x20;
+* Mempunyai SSM
 * Akaun semasa.
-  {% endhint %}
+{% endhint %}
 
 {% hint style="info" %}
 **Urusan pengesahan akaun, caj dan wang transaksi** adalah **diuruskan sepenuhnya oleh pihak Lekirpay**.
@@ -22,7 +23,7 @@ Bagi proses pendaftaran akaun Lekirpay anda perlu pastikan anda sudah :&#x20;
 
 ## Dapatkan kesemua key yang diperlukan dari akaun Lekirpay
 
-Untuk menghubungkan Lekirpay dengan website Shoppego, anda memerlukan beberapa key untuk proses pengesahan. Antara key yang diperlukan ialah **ID,** **Lekirkey** dan **Lekir-signature Token**.&#x20;
+Untuk menghubungkan Lekirpay dengan website Shoppego, anda memerlukan beberapa key untuk proses pengesahan. Antara key yang diperlukan ialah **ID,** **Lekirkey** dan **Lekir-signature Token**.
 
 Untuk memulakan proses penetapan payment gateway Lekirpay anda boleh ikut langkah penetapan ini :
 
@@ -36,7 +37,7 @@ Untuk memulakan proses penetapan payment gateway Lekirpay anda boleh ikut langka
 
 3\. Seterusnya anda akan dapat lihat API anda disitu anda boleh klik pada text **API** tersebut, anda akan lihat ketiga tiga key yang akan diperlukan iaitu **ID**, **Lekirkey** dan **Lekir-signature Key**.
 
-<figure><img src="../../../../.gitbook/assets/PciW9mz6L8bW7JadOQfT.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/OxlomCnpMQx9L5RKrLVQ.jpg" alt=""><figcaption></figcaption></figure>
 
 Anda boleh simpan ketiga-tiga key tersebut untuk kegunaan pada langkah seterusnya. Key yang anda perlu simpan ialah :
 
@@ -74,7 +75,7 @@ Untuk memulakan penetapan payment gateway tersebut, anda boleh ikut langkah pene
 
 <figure><img src="../../../../.gitbook/assets/uLtAJb8kHAEaxSREEpAy.jpg" alt=""><figcaption></figcaption></figure>
 
-7\. Setelah selesai anda boleh klik **Save** untuk simpan penetapan tersebut.&#x20;
+7\. Setelah selesai anda boleh klik **Save** untuk simpan penetapan tersebut.
 
 {% hint style="info" %}
 Sekiranya anda ingin **memulakan transaksi sebenar**, diminta untuk anda <mark style="color:red;">**mematikan**</mark> toggle **Test Mode** itu.
@@ -88,4 +89,4 @@ Setelah selesai proses penetapan tersebut, anda boleh cuba membuat pembelian di 
 
 <figure><img src="../../../../.gitbook/assets/WokrlnihWRYLKXZ5Rfm0.jpg" alt=""><figcaption></figcaption></figure>
 
-Tahniah, proses penetapan **Lekirpay** anda telah pun selesai. <br>
+Tahniah, proses penetapan **Lekirpay** anda telah pun selesai.<br>

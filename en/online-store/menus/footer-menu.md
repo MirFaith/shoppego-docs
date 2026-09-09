@@ -1,19 +1,19 @@
 # Footer Menu
 
-&#x20;There are 2 steps to make settings in the footer menu.
+There are 2 steps to make settings in the footer menu.
 
 1. Creating **Page/Category**:
 
 * Tutorial to create pages: [Pages](../pages/build-pages.md)
 
 {% content-ref url="../pages/build-pages.md" %}
-[Build pages](../pages/build-pages.md)
+[build-pages.md](../pages/build-pages.md)
 {% endcontent-ref %}
 
 * Tutorial to create Categories: [Categories](../../products/categories.md)
 
 {% content-ref url="../../products/categories.md" %}
-[Categories](../../products/categories.md)
+[categories.md](../../products/categories.md)
 {% endcontent-ref %}
 
 2. Creating a menu for page/category.
@@ -42,7 +42,7 @@ Next click the **Add menu item** button In the Title field enter any name that s
 
 In the link field, **only enter the handle.** Example as shown below:
 
-* **Pages**: **/pages/your-page-name**&#x20;
+* **Pages**: **/pages/your-page-name**
 * **Categories**: **/categories/your-category-name**
 
 {% hint style="info" %}
@@ -54,13 +54,13 @@ For example:
 * **/pages/your-page-name** ✅
 * **/pages/**<mark style="color:red;">**<->**</mark>**your-page-name**❌
 
-### 1 : To get the link for Pages&#x20;
+### 1 : To get the link for Pages
 
-There are **two ways** to get the link according to your builder interface:&#x20;
+There are **two ways** to get the link according to your builder interface:
 
 1. **Pages**: Go to **Online store** -> **Pages** -> click on the **Edit** button on the **Page** name and copy the **URL**.
 
-![](../../../.gitbook/assets/-MBceTETTRNE9jA60eH1.png)
+![](../../../.gitbook/assets/-MBcdI5yhwTji5x4SY_8.png)
 
 2. **Pages**: Go to **Online store** -> **Pages**-> **Edit** -> **More** -> **Settings** -> **SEO** -> copy **URL**.
 
@@ -70,11 +70,12 @@ There are **two ways** to get the link according to your builder interface:&#x20
 
 **Categories**: go to **Products** -> **Categories** -> click **Edit** on **categories** -> click **SEO** tab copy **URL**
 
-![](../../../.gitbook/assets/-MBcenidH8Qq7TCHaFax.png)
+![](../../../.gitbook/assets/-MBcdPKYpnsNmZYQF_v3.png)
 
 Paste the **URL** in Link **textfield**. The example are below.
 
-{% hint style="info" %} <mark style="color:red;">**Note**</mark>: Please ensure that the **spelling in the Link menu items** that you have **copied from SEO** **Pages** and **SEO Categories** is the <mark style="color:red;">**same**</mark>.
+{% hint style="info" %}
+<mark style="color:red;">\*\*Note\*\*</mark>: Please ensure that the \*\*spelling in the Link menu items\*\* that you have \*\*copied from SEO\*\* \*\*Pages\*\* and \*\*SEO Categories\*\* is the <mark style="color:red;">\*\*same\*\*</mark>.
 {% endhint %}
 
 ![](../../../.gitbook/assets/-MBcevDddttNbTolGNJl.png)

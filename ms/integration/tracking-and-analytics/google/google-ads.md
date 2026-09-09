@@ -6,19 +6,19 @@ Anda perlu pastikan anda **sudah mempunyai akaun Google Ads anda yang tersendiri
 
 Anda boleh rujuk link dibawah untuk langkah mendapatkan key-key yang diperlukan tersebut.
 
-Pastikan juga anda **sudah membuat penetapan Google Analytics untuk store Shoppego anda** bagi membolehkan anda membuat penetapan Google Ads ini. Jika anda masih belum membuat penetapan Google Analytics untuk store anda, klik pada butang dibawah :&#x20;
+Pastikan juga anda **sudah membuat penetapan Google Analytics untuk store Shoppego anda** bagi membolehkan anda membuat penetapan Google Ads ini. Jika anda masih belum membuat penetapan Google Analytics untuk store anda, klik pada butang dibawah :
 
 {% hint style="info" %}
 Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapun, anda perlu memilih ID Label Leads.
 {% endhint %}
 
 {% content-ref url="google-analytics.md" %}
-[Google Analytics](google-analytics.md)
+[google-analytics.md](google-analytics.md)
 {% endcontent-ref %}
 
 ## Log masuk kedalam akaun Google Ads
 
-1\. Anda boleh log masuk kedalam akaun Google Ads anda terlebih dahulu untuk membuat penetapan ini. Anda boleh klik pada link ini untuk log masuk : <https://ads.google.com/home/>
+1\. Anda boleh log masuk kedalam akaun Google Ads anda terlebih dahulu untuk membuat penetapan ini. Anda boleh klik pada link ini untuk log masuk : [https://ads.google.com/home/](https://ads.google.com/home/)
 
 ![](../../../../.gitbook/assets/68ojYBq7oXs912ELlG6U.png)
 
@@ -40,7 +40,7 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 4\. Pada bahagian ini, anda perlu pilih **Website**.
 
-<figure><img src="../../../../.gitbook/assets/Xf8pswaK0x4CHAjN6qx3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CVFCXN2IezG0xByyERTM.jpg" alt=""><figcaption></figcaption></figure>
 
 5.Kemudian, anda perlu masukkan **nama website** anda atau **nama domain** anda. Setelah itu, anda boleh tekan butang **Scan**. Setelah selesai, anda boleh tekan butang **Save and Continue**.
 
@@ -48,13 +48,13 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 6\. Anda perlu pastikan nama domain anda yang tertera pada bahagian **Website domain** itu. Setelah itu, anda boleh tekan pada **Add a conversion action manually.**
 
-<figure><img src="../../../../.gitbook/assets/yo1qYfgN8qhD05kxro4Y.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/udEnftqWBBaEoy1UH8lS.jpg" alt=""><figcaption></figcaption></figure>
 
 7\. Pada bahagian **Goal and action optimization**, anda boleh pilih **Purchase**. Kemudian pada **Conversion name**, anda boleh letak nama **Purchase Shoppego**. Pada ruangan **Value**, anda boleh pilih **Use different value for each conversion.**
 
 <figure><img src="../../../../.gitbook/assets/FGTULA9oSj0jXb5FcKDI.jpg" alt=""><figcaption></figcaption></figure>
 
-8\. Pada ruangan *Goal and action optimization,* anda akan lihat pada bahagian <mark style="color:blue;">**Conversion action optimization options**</mark>**,** pada tutorial ini kita akan gunakan tetapan default iaitu **Primary action used for bidding optimization**.
+8\. Pada ruangan _Goal and action optimization,_ anda akan lihat pada bahagian <mark style="color:blue;">**Conversion action optimization options**</mark>**,** pada tutorial ini kita akan gunakan tetapan default iaitu **Primary action used for bidding optimization**.
 
 <figure><img src="../../../../.gitbook/assets/9zlRonRDw83CMvQRPgrV.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 <figure><img src="../../../../.gitbook/assets/L2xLKMcctZsLub3wcRzi.jpg" alt=""><figcaption></figcaption></figure>
 
-## Dapatkan Google Ads ID&#x20;
+## Dapatkan Google Ads ID
 
 1\. Pastikan pada ruangan **See code for** anda telah pilih **HTML** , dan pada ruangan **Google Tag,** anda pilih **The Google tag isn't installed on your HTML pages.** Anda boleh salin nilai yang telah **disorokkan** untuk tujuan penetapan di Shoppego nanti.\
 \
@@ -100,17 +100,17 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 2\. Pada bahagian ini, anda boleh pilih **Website**.
 
-<figure><img src="../../../../.gitbook/assets/wLddg3L6zyKetIbln2PU.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CVFCXN2IezG0xByyERTM.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. Kemudian, anda perlu masukkan **nama website** anda atau **nama domain** anda. Setelah itu, anda boleh tekan butang **Scan**. Setelah selesai, anda boleh tekan butang **Save and Continue**.
 
-<figure><img src="../../../../.gitbook/assets/vRMGEVCsfXndw3IEw2El.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/35uzIbieN9WRiNfCudmc.jpg" alt=""><figcaption></figcaption></figure>
 
 4\. Anda perlu pastikan nama domain anda yang tertera pada bahagian **Website domain** itu. Setelah itu, anda boleh tekan pada **Add a conversion action manually.**
 
 <figure><img src="../../../../.gitbook/assets/udEnftqWBBaEoy1UH8lS.jpg" alt=""><figcaption></figcaption></figure>
 
-5\. Pada *Goal and action optimization,* anda perlu pilih **Add to Cart,** pada *Conversion Name* anda boleh masukkan nama **Add to cart Shoppego.** Pada *Value,* anda boleh pilih **Use different value for each conversion** dan **masukkan RM 1** pada **Enter a default value.**
+5\. Pada _Goal and action optimization,_ anda perlu pilih **Add to Cart,** pada _Conversion Name_ anda boleh masukkan nama **Add to cart Shoppego.** Pada _Value,_ anda boleh pilih **Use different value for each conversion** dan **masukkan RM 1** pada **Enter a default value.**
 
 <figure><img src="../../../../.gitbook/assets/Nw4ret6FAX3pMf2FTdg0.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -134,7 +134,7 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 ## Dapatkan Begin Checkout Label ID
 
-1. Untuk memulakan penetapan bagi mendapatkan label bagi Begin Checkout, anda perlu tekan butang **New Conversion Action.**&#x20;
+1. Untuk memulakan penetapan bagi mendapatkan label bagi Begin Checkout, anda perlu tekan butang **New Conversion Action.**
 
 <figure><img src="../../../../.gitbook/assets/bqJKww1fligivoYmEx5n.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -144,13 +144,13 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 3\. Setelah itu, anda perlu masukkan **nama website** atau **nama domain,** kemudian anda boleh tekan butang **Scan.** Apabila selesai, anda boleh tekan butang **Save and Continue**.
 
-<figure><img src="../../../../.gitbook/assets/HCGgBhq0NFud6hc86p6F.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/35uzIbieN9WRiNfCudmc.jpg" alt=""><figcaption></figcaption></figure>
 
 4\. Pada ruangan tersebut, pastikan anda telah masukkan **nama domain** atau **website** dengan betul. Setelah itu, anda boleh tekan **Add a conversionaction manually**.
 
 <figure><img src="../../../../.gitbook/assets/udEnftqWBBaEoy1UH8lS.jpg" alt=""><figcaption></figcaption></figure>
 
-5\. Pada *Goal and action optimization,* anda perlu pilih **Begin to Checkout,** pada *Conversion Name* anda boleh masukkan nama **Begin Checkout Shoppego.** Pada *Value,* anda boleh pilih **Use different value for each conversion** dan pada **Enter a default value ,** anda boleh masukkan nilai **RM 1.**
+5\. Pada _Goal and action optimization,_ anda perlu pilih **Begin to Checkout,** pada _Conversion Name_ anda boleh masukkan nama **Begin Checkout Shoppego.** Pada _Value,_ anda boleh pilih **Use different value for each conversion** dan pada **Enter a default value ,** anda boleh masukkan nilai **RM 1.**
 
 <figure><img src="../../../../.gitbook/assets/hLmJjXRjE2jd5dMe6DEk.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -176,7 +176,7 @@ Untuk "borang/forms", anda masih boleh mengikuti tutorial ini. Walau bagaimanapu
 
 Setelah anda mendapatkan kesemua key-key yang anda perlukan tersebut, anda boleh menghubungkan Google Ads anda dengan Shoppego dengan cara masukkan kesemua key-key tersebut didalam akaun Shoppego anda.
 
-Untuk maklumat lanjut, anda boleh rujuk pada langkah penetapan dibawah :&#x20;
+Untuk maklumat lanjut, anda boleh rujuk pada langkah penetapan dibawah :
 
 1\. Log masuk kedalam akaun Shoppego anda. Klik pada butang **Settings > General.** Seterusnya anda boleh **skrol kebawah** untuk **aktifkan toggle Enable Google Ads Conversion Tracking**
 

@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% content-ref url="../options.md" %}
-[Options](../options.md)
+[options.md](../options.md)
 {% endcontent-ref %}
 
 ## Bahagian 1 : **Penetapan Variants**
@@ -28,9 +28,9 @@
 
 ### 1 : Penerangan bagi Maklumat Varians
 
-<table><thead><tr><th width="207">Nama</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Nama <strong>variant untuk produk</strong> anda</td></tr><tr><td><strong>Price</strong></td><td>Harga yang <strong>pelanggan perlu bayar</strong> untuk variant ini</td></tr><tr><td><strong>Compare at price</strong></td><td><strong>Harga asal sebelum diskaun</strong> dan sebagainya. Pastikan nilainya lebih tinggi dengan nilai price anda.</td></tr><tr><td><strong>Manage stock</strong></td><td>Anda boleh aktifkan toggle ini sekiranya <strong>variant ini mempunyai stok.</strong> <br><strong>**</strong>Jika <mark style="color:red;"><strong>tidak dihidupkan</strong></mark>, stock product anda dikira <mark style="color:red;"><strong>Unlimited</strong></mark>.</td></tr><tr><td><strong>Stock</strong></td><td>Anda boleh masukkan stok untuk variant ini sekiranya anda aktifkan toggle <strong>Manage stock</strong> tersebut. Pastikan anda masukkan <strong>kuantiti stok pada lokasi default store</strong> anda.</td></tr><tr><td><strong>SKU</strong></td><td>SKU ialah ringkasan untuk Stock Keeping Unit. Anda boleh masukkan text/nombor yang anda inginkan sekiranya <strong>anda ingin lihat data sales anda mengikut SKU ini</strong> dan bukannya nama variant anda.</td></tr><tr><td><strong>Weight</strong></td><td>Anda perlu <strong>masukkan berat untuk variant ini untuk proses penghantaran</strong> nanti</td></tr></tbody></table>
+<table><thead><tr><th width="207">Nama</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Nama <strong>variant untuk produk</strong> anda</td></tr><tr><td><strong>Price</strong></td><td>Harga yang <strong>pelanggan perlu bayar</strong> untuk variant ini</td></tr><tr><td><strong>Compare at price</strong></td><td><strong>Harga asal sebelum diskaun</strong> dan sebagainya. Pastikan nilainya lebih tinggi dengan nilai price anda.</td></tr><tr><td><strong>Manage stock</strong></td><td>Anda boleh aktifkan toggle ini sekiranya <strong>variant ini mempunyai stok.</strong><br><strong>**</strong>Jika <mark style="color:red;"><strong>tidak dihidupkan</strong></mark>, stock product anda dikira <mark style="color:red;"><strong>Unlimited</strong></mark>.</td></tr><tr><td><strong>Stock</strong></td><td>Anda boleh masukkan stok untuk variant ini sekiranya anda aktifkan toggle <strong>Manage stock</strong> tersebut. Pastikan anda masukkan <strong>kuantiti stok pada lokasi default store</strong> anda.</td></tr><tr><td><strong>SKU</strong></td><td>SKU ialah ringkasan untuk Stock Keeping Unit. Anda boleh masukkan text/nombor yang anda inginkan sekiranya <strong>anda ingin lihat data sales anda mengikut SKU ini</strong> dan bukannya nama variant anda.</td></tr><tr><td><strong>Weight</strong></td><td>Anda perlu <strong>masukkan berat untuk variant ini untuk proses penghantaran</strong> nanti</td></tr></tbody></table>
 
-Ulang proses ini untuk variant yang seterusnya.&#x20;
+Ulang proses ini untuk variant yang seterusnya.
 
 ![](../../../.gitbook/assets/ks0Yj1wDZvxLEBjyauX8.png)
 
@@ -48,7 +48,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 \
 1\. Klik pada **View inventory logs**.
 
-![](../../../.gitbook/assets/woEkykkWCZkh7SCjw5rk.png)
+![](../../../.gitbook/assets/Im6z1UER7V8g7fKt4jeb.png)
 
 <br>
 
@@ -56,7 +56,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 
 ![](../../../.gitbook/assets/mVqSfbt6ljNF5O79En1N.png)
 
-<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong> </td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong> </td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong> </td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong> </td><td>Merujuk kepada nilai terbaru stock </td></tr></tbody></table>
+<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong></td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong></td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong></td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong></td><td>Merujuk kepada nilai terbaru stock</td></tr></tbody></table>
 
 ### 2 : Stok Produk
 

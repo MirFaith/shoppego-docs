@@ -6,19 +6,17 @@ Shoppego has made it easier for users to setup Facebook pixels by simply setting
 The **use of multiple Facebook Pixels** is available for **Premium plans and above**. This function is also **only available in the Forms setup**.
 {% endhint %}
 
-{% embed url="<https://youtu.be/fXfa8r67D6k>" %}
-
 ## What is Facebook Pixel?
 
 {% hint style="info" %}
-**Facebook Pixel** is a **tracking mechanism** or in Malay referred to as a "*Mekanisma Penjejak*" to track the visitors who enter your website.
+**Facebook Pixel** is a **tracking mechanism** or in Malay referred to as a "_Mekanisma Penjejak_" to track the visitors who enter your website.
 {% endhint %}
 
 One of the best ways to setup **Facebook Pixels** is to use Facebook Business. So you need to register **Facebook Business Manager** for this Pixel setting.
 
 ## Registration of Business Suite Account
 
-1. Click on this [<mark style="color:blue;">**link**</mark> ](https://business.facebook.com/)to go to **Facebook Business Manager** or <https://business.facebook.com/>
+1. Click on this [<mark style="color:blue;">**link**</mark> ](https://business.facebook.com/)to go to **Facebook Business Manager** or [https://business.facebook.com/](https://business.facebook.com/)
 2. Click on **Create Account** to register.
 
 <figure><img src="../../../../.gitbook/assets/liWiXbLjOhJsx2CKNm36.jpg" alt=""><figcaption></figcaption></figure>
@@ -45,13 +43,13 @@ One of the best ways to setup **Facebook Pixels** is to use Facebook Business. S
 
 <figure><img src="../../../../.gitbook/assets/axAnOXVPshjvlbYfcYXm.jpg" alt=""><figcaption></figcaption></figure>
 
-2. You will see **3 options** as shown in the picture below.&#x20;
+2. You will see **3 options** as shown in the picture below.
 
-Option: ***Add an Ad Account*** - If you already have a Facebook personal account with an Ad Account. You can use this option to transfer it from your personal account to your Business Account.&#x20;
+Option: _**Add an Ad Account**_ - If you already have a Facebook personal account with an Ad Account. You can use this option to transfer it from your personal account to your Business Account.
 
-Option: ***Request to an Ad Account*** - Use this option if you are managing ads for someone else.&#x20;
+Option: _**Request to an Ad Account**_ - Use this option if you are managing ads for someone else.
 
-Option: ***Create a New Ad Account*** - This option is for those who are new to advertising or do not want to have any connection with previous ad accounts.&#x20;
+Option: _**Create a New Ad Account**_ - This option is for those who are new to advertising or do not want to have any connection with previous ad accounts.
 
 For this setting step, the option **Create a New Ad Account** will be chosen to make it easier for all levels to learn and follow the next steps for this setting.
 
@@ -67,7 +65,7 @@ For this setting step, the option **Create a New Ad Account** will be chosen to 
 
 <figure><img src="../../../../.gitbook/assets/z6BQOM7LaNGvvUyuNlYr.jpg" alt=""><figcaption></figcaption></figure>
 
-6. In the "**Assign**" section, you will be able to **assign the power** for the **Ad Account** that you created earlier. \
+6. In the "**Assign**" section, you will be able to **assign the power** for the **Ad Account** that you created earlier.\
    \
    \*\*Make sure to **check the name on the left panel** and also check "**Manage Ad Account**" to give yourself full power. Then click the "**Assign**" button.
 
@@ -75,7 +73,7 @@ For this setting step, the option **Create a New Ad Account** will be chosen to 
 
 7. On this page, you will be given the option to choose "**Add Payment Info**" or "**Close**", for this tutorial, we will choose to "**Close**", but for those who want to **run Ads**, you will need to set up "**Add Payment Info**".
 
-<figure><img src="../../../../.gitbook/assets/o0GgmNxhkbcvo9eeMtNd.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ChL0a2PFloSpGdWWuNBP.jpg" alt=""><figcaption></figcaption></figure>
 
 8. For this prompt, you will need to choose "**Exit**".
 
@@ -133,10 +131,9 @@ If you want to go to the Events Manager page, you can click on the **3-dot icon*
 
 ## Facebook Pixel Setup (Test Event)
 
-{% hint style="info" %} <mark style="color:red;">**Note**</mark>: Setting up test events is **important** and **should be done** before **using this Pixel** for your ad settings. This is to ensure that all your events can be triggered as usual and there are no problems.
+{% hint style="info" %}
+<mark style="color:red;">\*\*Note\*\*</mark>: Setting up test events is \*\*important\*\* and \*\*should be done\*\* before \*\*using this Pixel\*\* for your ad settings. This is to ensure that all your events can be triggered as usual and there are no problems.
 {% endhint %}
-
-{% embed url="<https://youtu.be/pxGruUKJ0NY>" %}
 
 1. To set up **Test Events** for the **Pixel** you just created, you can press "**Test events**" and then enter **your website name** or **domain** into the provided field. Then you can press "**Open Website**".
 
@@ -155,5 +152,5 @@ If you want to go to the Events Manager page, you can click on the **3-dot icon*
 If you are **experiencing issues** with your **Facebook Pixel**, you can refer to the tutorial link below for assistance:
 
 {% content-ref url="facebook-pixel/configuration-error.md" %}
-[Configuration Error](facebook-pixel/configuration-error.md)
+[configuration-error.md](facebook-pixel/configuration-error.md)
 {% endcontent-ref %}

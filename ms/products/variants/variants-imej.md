@@ -12,7 +12,7 @@ Setelah anda cipta variant, anda boleh masukkan **gambar untuk variant** tersebu
 
 ![](../../../.gitbook/assets/ZnaWZkeYqrcIydSTzFwQ.png)
 
-Anda boleh pilih gambar yang anda ingin upload tersebut.&#x20;
+Anda boleh pilih gambar yang anda ingin upload tersebut.
 
 {% hint style="info" %}
 Pastikan **saiz image** tersebut <mark style="color:red;">**dibawah 5MB.**</mark>
@@ -34,7 +34,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 \
 1\. Klik pada **View inventory logs**.
 
-![](../../../.gitbook/assets/woEkykkWCZkh7SCjw5rk.png)
+![](../../../.gitbook/assets/Im6z1UER7V8g7fKt4jeb.png)
 
 <br>
 
@@ -42,7 +42,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 
 ![](../../../.gitbook/assets/mVqSfbt6ljNF5O79En1N.png)
 
-<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong> </td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong> </td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong> </td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong> </td><td>Merujuk kepada nilai terbaru stock </td></tr></tbody></table>
+<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong></td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong></td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong></td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong></td><td>Merujuk kepada nilai terbaru stock</td></tr></tbody></table>
 
 ### 2 : Stok Produk
 

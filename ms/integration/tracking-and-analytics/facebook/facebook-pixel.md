@@ -1,5 +1,5 @@
 ---
-description: "Tutorial untuk konfigurasi Facebook Pixel bagi pengguna di Shoppego"
+description: Tutorial untuk konfigurasi Facebook Pixel bagi pengguna di Shoppego
 ---
 
 # Facebook Pixel
@@ -12,21 +12,19 @@ Tidak perlu melibatkan penetapan yang berkaitan dan melibatkan coding.
 Penggunaan **Facebook Pixel lebih dari satu** tersedia untuk plan **Premium dan keatas**. Fungsi ini juga **hanya tersedia dalam penetapan "Forms"**.
 {% endhint %}
 
-{% embed url="<https://youtu.be/fXfa8r67D6k>" %}
-
 ## Apa itu Facebook Pixel?
 
 {% hint style="info" %}
-Facebook Pixel adalah sebuah ***Tracking Mechanism*** atau dalam Bahasa Melayu disebut sebagai **Mekanisma Penjejak** untuk menjejaki pelawat yang masuk ke website anda.
+Facebook Pixel adalah sebuah _**Tracking Mechanism**_ atau dalam Bahasa Melayu disebut sebagai **Mekanisma Penjejak** untuk menjejaki pelawat yang masuk ke website anda.
 {% endhint %}
 
 Satu cara yang paling terbaik untuk setup **Facebook Pixel** adalah dengan menggunakan **Meta Business Suite**. Jadi anda perlu daftar Facebook Business Manager untuk penetapan **Facebook Pixel** ini.
 
 ## Pendaftaran Akaun Business Suite
 
-1. **Klik** [<mark style="color:blue;">**link**</mark> ](https://business.facebook.com/)ini untuk ke **Facebook Business Manager** <https://business.facebook.com/>
+1. **Klik** [<mark style="color:blue;">**link**</mark> ](https://business.facebook.com/)ini untuk ke **Facebook Business Manager** [https://business.facebook.com/](https://business.facebook.com/)
 
-&#x20; &#x32;**.   Klik** pada **Cipta Akaun (Create Account)** untuk **mendaftar**.
+&#x32;**. Klik** pada **Cipta Akaun (Create Account)** untuk **mendaftar**.
 
 <figure><img src="../../../../.gitbook/assets/liWiXbLjOhJsx2CKNm36.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +40,7 @@ Satu cara yang paling terbaik untuk setup **Facebook Pixel** adalah dengan mengg
 
 <figure><img src="../../../../.gitbook/assets/NDP7joa2z92D3GI8zaxc.jpg" alt=""><figcaption></figcaption></figure>
 
-6\. Setelah itu, anda perlu tekan ikon **≣** yang telah **di-highlight** dan pergi ke **Business Settings**.&#x20;
+6\. Setelah itu, anda perlu tekan ikon **≣** yang telah **di-highlight** dan pergi ke **Business Settings**.
 
 <figure><img src="../../../../.gitbook/assets/i8h7zjXdLd9t1pQfl71L.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -54,11 +52,11 @@ Satu cara yang paling terbaik untuk setup **Facebook Pixel** adalah dengan mengg
 
 2\. Akan terpapar 3 pilihan seperti di dalam gambar di bawah.
 
-Pilihan : ***Add an Ad Account -*** Sekiranya akaun Facebook peribadi anda sudah mempunyai Akaun Ads. Anda boleh gunakan pilihan ini untuk pindahkan dari akaun personal masuk ke Business Account ni.
+Pilihan : _**Add an Ad Account -**_ Sekiranya akaun Facebook peribadi anda sudah mempunyai Akaun Ads. Anda boleh gunakan pilihan ini untuk pindahkan dari akaun personal masuk ke Business Account ni.
 
-Pilihan : ***Request to an Ad Account** -* Gunakan pilihan ini sekiranya anda menguruskan iklan bagi pihak orang lain.
+Pilihan : _**Request to an Ad Account** -_ Gunakan pilihan ini sekiranya anda menguruskan iklan bagi pihak orang lain.
 
-Pilihan : ***Create a New Ad Account*** - Pilihan ini adalah bagi mereka yang baru nak buat iklan atau tak mahu ada kaitan dengan akaun ads yang sebelum ini.
+Pilihan : _**Create a New Ad Account**_ - Pilihan ini adalah bagi mereka yang baru nak buat iklan atau tak mahu ada kaitan dengan akaun ads yang sebelum ini.
 
 Untuk langkah penetapan ini, pilihan **Create a New Ad Account** akan dibuat bagi memudahkan semua peringkat dapat belajar dan ikuti langkah seterusnya bagi penetapan ini.
 
@@ -74,7 +72,7 @@ Untuk langkah penetapan ini, pilihan **Create a New Ad Account** akan dibuat bag
 
 <figure><img src="../../../../.gitbook/assets/z6BQOM7LaNGvvUyuNlYr.jpg" alt=""><figcaption></figcaption></figure>
 
-6\. Seterusnya anda akan dibawa kepada bahagian **Assign**. Bahagian ini adalah untuk **mengagihkan kuasa** bagi Ad Akaun yang telah dibina sebentar tadi.&#x20;
+6\. Seterusnya anda akan dibawa kepada bahagian **Assign**. Bahagian ini adalah untuk **mengagihkan kuasa** bagi Ad Akaun yang telah dibina sebentar tadi.
 
 {% hint style="info" %}
 \*\*Pastikan anda tandakan pada **Nama di sebelah panel kiri** dan juga tandakan pada **Manage Ad Account untuk berikan kuasa mutlak/penuh pada diri anda sendiri.**
@@ -84,9 +82,9 @@ Dan klik butang **Assign**.
 
 <figure><img src="../../../../.gitbook/assets/poAE7SMzKyvuv7wl3khn.jpg" alt=""><figcaption></figcaption></figure>
 
-7\.  Pada halaman ini, anda akan diberi **pilihan** iaitu **Add Payment Info** atau <mark style="color:red;">**Close**</mark>, untuk **tutorial** ini, kita akan memilih untuk <mark style="color:red;">**Close**</mark>, tetapi bagi yang mahu **menjalankan Ads**, anda perlu membuat **Add Payment** Info.
+7\. Pada halaman ini, anda akan diberi **pilihan** iaitu **Add Payment Info** atau <mark style="color:red;">**Close**</mark>, untuk **tutorial** ini, kita akan memilih untuk <mark style="color:red;">**Close**</mark>, tetapi bagi yang mahu **menjalankan Ads**, anda perlu membuat **Add Payment** Info.
 
-<figure><img src="../../../../.gitbook/assets/o0GgmNxhkbcvo9eeMtNd.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ChL0a2PFloSpGdWWuNBP.jpg" alt=""><figcaption></figcaption></figure>
 
 8\. Untuk prompt yang ini, anda perlu memilih **Exit**.
 
@@ -144,16 +142,15 @@ Tahniah! Pixel anda telah pun **berjaya** di tetapkan dalam **Shoppego**.
 
 ## Penetapan Facebook Pixel (Test Event)
 
-{% hint style="info" %} <mark style="color:red;">**Perhatian**</mark>**:** Penetapan **test events** ini **penting** dan **perlu dilakukan** sebelum anda gunakan **Pixel** ini untuk **penetapan ads** anda. Hal ini bagi memastikan setiap events anda **dapat ditrigger seperti biasa** dan **tiada sebarang masalah.**
+{% hint style="info" %}
+<mark style="color:red;">\*\*Perhatian\*\*</mark>\*\*:\*\* Penetapan \*\*test events\*\* ini \*\*penting\*\* dan \*\*perlu dilakukan\*\* sebelum anda gunakan \*\*Pixel\*\* ini untuk \*\*penetapan ads\*\* anda. Hal ini bagi memastikan setiap events anda \*\*dapat ditrigger seperti biasa\*\* dan \*\*tiada sebarang masalah.\*\*
 {% endhint %}
-
-{% embed url="<https://youtu.be/pxGruUKJ0NY>" %}
 
 1. Untuk lakukan penetapan bagi **Test Event** bagi **Pixel** yang anda baru cipta, anda boleh tekan pada **Test events** dan kemudian masukkan **nama website anda** atau **domain anda** ke dalam ruangan yang disediakan. Dan kemudian anda boleh tekan **Open Website**.
 
 <figure><img src="../../../../.gitbook/assets/k2TKd6dqujaX7JP2Ioyy.jpg" alt=""><figcaption></figcaption></figure>
 
-2\. Selepas itu, anda akan dibawa ke laman web anda dan anda boleh cuba untuk lakukan **test event** seperti **Page View,** **Add to Cart**, dan **sebagainya**.&#x20;
+2\. Selepas itu, anda akan dibawa ke laman web anda dan anda boleh cuba untuk lakukan **test event** seperti **Page View,** **Add to Cart**, dan **sebagainya**.
 
 <figure><img src="../../../../.gitbook/assets/sWkZrE9DTATldhcJ507o.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -163,8 +160,8 @@ Tahniah! Pixel anda telah pun **berjaya** di tetapkan dalam **Shoppego**.
 
 ## Isu Facebook Pixel
 
-Jika **Facebook Pixel** anda bermasalah, boleh rujuk tutorial di bawah ini :&#x20;
+Jika **Facebook Pixel** anda bermasalah, boleh rujuk tutorial di bawah ini :
 
 {% content-ref url="facebook-pixel/configuration.md" %}
-[Configuration Error](facebook-pixel/configuration.md)
+[configuration.md](facebook-pixel/configuration.md)
 {% endcontent-ref %}

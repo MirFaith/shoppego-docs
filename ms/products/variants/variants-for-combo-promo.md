@@ -2,14 +2,14 @@
 
 ## Bahagian 1 : **Variants Combo Promo**
 
-Proses yang sama juga seperti penetapan **options** dan **variant** untuk Product. Anda boleh rujuk contoh dibawah:&#x20;
+Proses yang sama juga seperti penetapan **options** dan **variant** untuk Product. Anda boleh rujuk contoh dibawah:
 
 {% content-ref url="../options.md" %}
-[Options](../options.md)
+[options.md](../options.md)
 {% endcontent-ref %}
 
 {% content-ref url="variants-setup.md" %}
-[Variants Setup](variants-setup.md)
+[variants-setup.md](variants-setup.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -18,8 +18,8 @@ Proses yang sama juga seperti penetapan **options** dan **variant** untuk Produc
 
 <figure><img src="../../../.gitbook/assets/qVOpoDJQLpGncVEOmNAR.png" alt=""><figcaption></figcaption></figure>
 
-1. Klik butang yang **Add variant** untuk menambah variant combo yang lain, contohnya seperti di bawah.&#x20;
-2. Cuma pada bahagian **Name** itu anda boleh isikan nama seperti contoh di bawah.&#x20;
+1. Klik butang yang **Add variant** untuk menambah variant combo yang lain, contohnya seperti di bawah.
+2. Cuma pada bahagian **Name** itu anda boleh isikan nama seperti contoh di bawah.
 3. Kita meletakkan nama **2 PC Kombo** pada ruangan **Promo Kombo** itu..
 
 <figure><img src="../../../.gitbook/assets/rIsLwG7YWQMkLmAWogij.png" alt=""><figcaption></figcaption></figure>
@@ -36,7 +36,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 \
 1\. Klik pada **View inventory logs**.
 
-![](../../../.gitbook/assets/woEkykkWCZkh7SCjw5rk.png)
+![](../../../.gitbook/assets/Im6z1UER7V8g7fKt4jeb.png)
 
 <br>
 
@@ -44,7 +44,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 
 ![](../../../.gitbook/assets/mVqSfbt6ljNF5O79En1N.png)
 
-<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong> </td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong> </td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong> </td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong> </td><td>Merujuk kepada nilai terbaru stock </td></tr></tbody></table>
+<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong></td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong></td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong></td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong></td><td>Merujuk kepada nilai terbaru stock</td></tr></tbody></table>
 
 ### 2 : Stok Produk
 

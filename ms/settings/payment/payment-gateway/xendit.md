@@ -5,9 +5,9 @@ Bagi menggunakan Xendit sila pastikan anda **sudah cipta** terlebih dahulu **aka
 {% hint style="success" %}
 Anda perlu pastikan anda sudah:
 
-* Mempunyai SSM/TIN&#x20;
+* Mempunyai SSM/TIN
 * Akaun bank semasa.
-  {% endhint %}
+{% endhint %}
 
 {% hint style="info" %}
 **Urusan pengesahan akaun, caj dan wang transaksi** adalah **diuruskan sepenuhnya oleh pihak Xendit.**
@@ -21,8 +21,8 @@ Anda perlu pastikan anda sudah:
 
 Untuk lakukan integration payment gateway Xendit dengan Shoppego, anda perlu dapatkan **Secret API Key dan Webhook Verification Token. Anda juga perlu lakukan penetapan Webhook pada akaun Xendit anda.**\
 \
-Jika anda masih belum mendaftar akaun Chip, anda boleh menggunakan link ini:\
-<https://dashboard.xendit.co/register/1>
+Jika anda masih belum mendaftar akaun Xendit, anda boleh menggunakan link ini:\
+[https://dashboard.xendit.co/register/1](https://dashboard.xendit.co/register/1)
 
 ### Dapatkan Secret API Key
 
@@ -76,7 +76,7 @@ Jika anda masih belum mendaftar akaun Chip, anda boleh menggunakan link ini:\
 
 <figure><img src="../../../../.gitbook/assets/lCN7aw3FznaFFoOAyya2.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Klik pada **Settings**&#x20;
+2. Klik pada **Settings**
 
 <figure><img src="../../../../.gitbook/assets/VsK9zs6aZtUfKK1hcCiM.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -120,7 +120,7 @@ Jika anda masih belum mendaftar akaun Chip, anda boleh menggunakan link ini:\
 
 ![](../../../../.gitbook/assets/0egeOsfGLxBW6Xf31Ssa.jpg)
 
-5\. Seterusnya akan keluar paparan seperti dibawah, anda boleh isi maklumat tersebut :&#x20;
+5\. Seterusnya akan keluar paparan seperti dibawah, anda boleh isi maklumat tersebut :
 
 ![](../../../../.gitbook/assets/2RVwbs3xgm3oVGXpUdts.jpg)
 

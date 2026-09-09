@@ -12,7 +12,7 @@ Bagi Item Clearance anda boleh masukkan **nilai 0 (100% diskaun)** atau harga se
 
 <figure><img src="../../../.gitbook/assets/hkqIESTCW4iX1V4uzRSa.png" alt=""><figcaption></figcaption></figure>
 
-2. Kemudian, anda boleh tick pada checkbox **Fixed quantity** pada setiap penetapan produk itu dan masukkan **nilai 1** pada setiap ruangan kuantiti yang tersedia.&#x20;
+2. Kemudian, anda boleh tick pada checkbox **Fixed quantity** pada setiap penetapan produk itu dan masukkan **nilai 1** pada setiap ruangan kuantiti yang tersedia.
 
 {% hint style="info" %}
 Penetapan ini akan memastikan **pelanggan hanya boleh pilih 1 sahaja** bagi setiap produk ini.
@@ -26,7 +26,7 @@ Penetapan ini akan memastikan **pelanggan hanya boleh pilih 1 sahaja** bagi seti
 
 4. Setelah selesai, tekan butang **Save**.
 
-<figure><img src="../../../.gitbook/assets/LXNAw1HX8sHnsVpLiCRF.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/BoLE0GhYjoucs5BwyqGr.jpg" alt=""><figcaption></figcaption></figure>
 
 5. Anda boleh klik pada butang **Preview** untuk cuba lihat produk bundle anda dan cuba lakukan pembelian.
 

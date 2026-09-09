@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQ
 
 * If I want to change my store currency, is it possible?\

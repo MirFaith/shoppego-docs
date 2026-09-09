@@ -1,15 +1,15 @@
 ---
-description: "Penetapan bagi Tiktok Pixel"
+description: Penetapan bagi Tiktok Pixel
 ---
 
 # TikTok Pixel
 
 Penetapan ini membolehkan anda untuk pantau beberapa event apa yang pelawat anda lakukan didalam website anda. Antara event yang dapat di track ialah **ViewContent**, **Add to cart, Initiate checkout** dan **Complete payment**.
 
-Satu cara yang paling terbaik untuk setup TikTok pixel adalah dengan menggunakan akaun TikTok Business.&#x20;
+Satu cara yang paling terbaik untuk setup TikTok pixel adalah dengan menggunakan akaun TikTok Business.
 
 {% hint style="info" %}
-Jadi anda perlu daftar dahulu pada page **TikTok Business** di sini : <https://ads.tiktok.com/i18n/signup>
+Jadi anda perlu daftar dahulu pada page **TikTok Business** di sini : [https://ads.tiktok.com/i18n/signup](https://ads.tiktok.com/i18n/signup)
 {% endhint %}
 
 ## Bahagian 1 : Penetapan di TikTok Business
@@ -24,19 +24,19 @@ Jadi anda perlu daftar dahulu pada page **TikTok Business** di sini : <https://a
 
 3\. Kemudian, anda boleh pilih **Manual Payment** untuk bahagian **Set up billing information.**
 
-<figure><img src="../../../../.gitbook/assets/yaFLfuEeQbAe34VurbVm.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/I6cdV9kRqjfNZwn8J6md.jpg" alt=""><figcaption></figcaption></figure>
 
 4\. Untuk penetapan dalam tutorial ini, kami akan gunakan **Custom Mode** sebagai tetapan.
 
 <figure><img src="../../../../.gitbook/assets/2ZzFOnkGM4B8RjAECjIY.jpg" alt=""><figcaption></figcaption></figure>
 
-5\. Anda akan melihat halaman yang dipaparkan seperti ini.&#x20;
+5\. Anda akan melihat halaman yang dipaparkan seperti ini.
 
 <figure><img src="../../../../.gitbook/assets/2BJrLc269Ewc3ppk4aTP.png" alt=""><figcaption></figcaption></figure>
 
 6\. Pada halaman tersebut, anda boleh lihat pada bar hitam diatas dan ada pilihan **Assets**. Klik pada **Assets** dan pilih **Events**.
 
-<figure><img src="../../../../.gitbook/assets/lDeR6PuZWMXytk0sDczv.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2bpnl9uDQB0S0ed8d6vb.jpg" alt=""><figcaption></figcaption></figure>
 
 7\. Anda boleh pilih **Web Events** untuk tetapan itu.
 
@@ -54,7 +54,7 @@ Jadi anda perlu daftar dahulu pada page **TikTok Business** di sini : <https://a
 
 <figure><img src="../../../../.gitbook/assets/LsKfpsvxjsp2be0Rqk93.png" alt=""><figcaption></figcaption></figure>
 
-11. Pada bahagian ini boleh tekan **Skip Step**.&#x20;
+11. Pada bahagian ini boleh tekan **Skip Step**.
 
 <figure><img src="../../../../.gitbook/assets/tOqNmoQqQo6Bgi9XVg22.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,9 +74,9 @@ Jadi anda perlu daftar dahulu pada page **TikTok Business** di sini : <https://a
 
 2\. Seterusnya,anda dibawa kesatu halaman dimana anda boleh klik pada butang **Add to Chrome** untuk memasang plugin atau extension ini kedalam browser anda.
 
-<figure><img src="../../../../.gitbook/assets/ZcmkKp6gqTFVyF3DHpEW.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/H1nf5kTljUrV8CdwdtlS.png" alt=""><figcaption></figcaption></figure>
 
-### Salin TikTok Pixel ID&#x20;
+### Salin TikTok Pixel ID
 
 1\. Salin **ID Tiktok Pixel** anda dan simpan, kerana **ID** tersebut akan digunakan untuk dimasukkan kedalam sistem Shoppego anda.
 
@@ -90,15 +90,15 @@ Jadi anda perlu daftar dahulu pada page **TikTok Business** di sini : <https://a
 
 2\. Pada halaman tersebut, anda dikehendaki untuk memasukkan **nama website anda** atau **domain anda** di ruangan itu.
 
-<figure><img src="../../../../.gitbook/assets/uJmtMnhpSPWMGPsUkLah.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/AuY5iuBbb6lD8YrJ327N.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. Selepas itu, QR kod telah dijana , anda boleh buka **aplikasi Tiktok** di telefon anda dan **imbas QR kod** tersebut ya. Selepas anda imbas, anda boleh cuba membuat **order** atau **initiate checkout** dalam aplikasi Tiktok anda.
 
-<figure><img src="../../../../.gitbook/assets/yIHIAn2EHNNGCA4XcGcD.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/TaO0J4QH9nbccHFr2Xud.jpg" alt=""><figcaption></figcaption></figure>
 
 4\. Anda boleh lihat **events yang telah di-trigger** di aplikasi Tiktok didalam Tiktok Ads Manager anda.
 
-<figure><img src="../../../../.gitbook/assets/W8xw0wGX9e38NJZO634w.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Igce89l7iLsnz1Dvpjgg.png" alt=""><figcaption></figcaption></figure>
 
 Jika anda dapat trigger kesemua event yang anda inginkan di Shoppego ini iaitu **View Content**, **Add to Cart, Initiate Checkout & Complete Payment** ianya bermakna pixel anda sudah berfungsi dengan baik dan tiada sebarang isu.
 

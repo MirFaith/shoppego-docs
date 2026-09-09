@@ -1,5 +1,5 @@
 ---
-description: "Penetapan varians"
+description: Penetapan varians
 ---
 
 # Variants
@@ -11,28 +11,28 @@ description: "Penetapan varians"
 {% endhint %}
 
 {% content-ref url="variants/variants-setup.md" %}
-[Variants Setup](variants/variants-setup.md)
+[variants-setup.md](variants/variants-setup.md)
 {% endcontent-ref %}
 
 {% content-ref url="variants/variants-imej.md" %}
-[Variants Imej](variants/variants-imej.md)
+[variants-imej.md](variants/variants-imej.md)
 {% endcontent-ref %}
 
-**Product variants** digunakan untuk membuat **lebih dari satu pilihan** bagi **produk yang sama**:&#x20;
+**Product variants** digunakan untuk membuat **lebih dari satu pilihan** bagi **produk yang sama**:
 
 Sebagai contoh :
 
 * **Produk baju** yang mempunyai **banyak saiz**.
 * **Produk kayu** mempunyai banyak **ukuran**.
 
-Variants juga boleh digunakan sebagai pilihan untuk membuat **produk kombo.**&#x20;
+Variants juga boleh digunakan sebagai pilihan untuk membuat **produk kombo.**
 
 {% content-ref url="variants/variants-for-combo-promo.md" %}
-[Variants for Combo Promo](variants/variants-for-combo-promo.md)
+[variants-for-combo-promo.md](variants/variants-for-combo-promo.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-\*\*<mark style="color:red;">**Perhatian**</mark>: Sebelum anda meneruskan tutorial ini pastikan anda telah **menambahkan produk** anda terlebih dahulu dan **Save** produk tersebut.&#x20;
+\*\*<mark style="color:red;">**Perhatian**</mark>: Sebelum anda meneruskan tutorial ini pastikan anda telah **menambahkan produk** anda terlebih dahulu dan **Save** produk tersebut.
 {% endhint %}
 
 {% hint style="info" %}
@@ -40,7 +40,7 @@ Variants juga boleh digunakan sebagai pilihan untuk membuat **produk kombo.**&#x
 {% endhint %}
 
 {% content-ref url="options.md" %}
-[Options](options.md)
+[options.md](options.md)
 {% endcontent-ref %}
 
 ## **Akses Variants**
@@ -65,11 +65,11 @@ Variants juga boleh digunakan sebagai pilihan untuk membuat **produk kombo.**&#x
 
 ![](../../.gitbook/assets/Y8wIVUWiSDlAWJiE3SDf.png)
 
-5. Seterusnya klik pada tab **Variants**&#x20;
+5. Seterusnya klik pada tab **Variants**
 
 ![](../../.gitbook/assets/Ry0TzkcLn6to51Du1lgT.png)
 
-Secara default untuk setiap produk akan keluar **Default** variant.&#x20;
+Secara default untuk setiap produk akan keluar **Default** variant.
 
 ![](../../.gitbook/assets/d0yOirROrgD2tK56vhmo.jpg)
 
@@ -85,7 +85,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 \
 1\. Klik pada **View inventory logs**.
 
-![](../../.gitbook/assets/woEkykkWCZkh7SCjw5rk.png)
+![](../../.gitbook/assets/Im6z1UER7V8g7fKt4jeb.png)
 
 <br>
 
@@ -93,7 +93,7 @@ Pada bahagian ini anda dapat melihat perubahan atau jejak kuantiti yang dilakuka
 
 ![](../../.gitbook/assets/mVqSfbt6ljNF5O79En1N.png)
 
-<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong> </td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong> </td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong> </td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong> </td><td>Merujuk kepada nilai terbaru stock </td></tr></tbody></table>
+<table><thead><tr><th width="155">Tajuk</th><th>Penerangan</th></tr></thead><tbody><tr><td><strong>Alamat</strong></td><td>Anda boleh menukar alamat pada ruangan ini untuk melihat perubahan logs berdasarkan lokasi.</td></tr><tr><td><strong>Date</strong></td><td>Tarikh setiap perubahan dilakukan.</td></tr><tr><td><strong>Activity</strong></td><td>Merujuk pada perkara yang anda lakukan semasa mengubah kuantiti stok</td></tr><tr><td><strong>Adjusted by</strong></td><td>Merujuk kepada penama/siapa yang melakukan perubahan kepada stock tersebut.</td></tr><tr><td><strong>Available</strong></td><td>Merujuk kepada nilai terbaru stock</td></tr></tbody></table>
 
 ### 2 : Stok Produk
 

@@ -26,7 +26,7 @@ This setting ensures that customers can only choose one item per product.
 
 4. Click the Save button when finished.
 
-<figure><img src="../../../.gitbook/assets/LXNAw1HX8sHnsVpLiCRF.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/BoLE0GhYjoucs5BwyqGr.jpg" alt=""><figcaption></figcaption></figure>
 
 5. You can click the Preview button to see what your bundle product looks like and try to make a purchase.
 

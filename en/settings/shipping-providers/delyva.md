@@ -1,13 +1,13 @@
 # Delyva
 
-This setup consists of 3 parts, namely:&#x20;
+This setup consists of 3 parts, namely:
 
 {% hint style="success" %}
 This feature is available for **Premium** and **Ultimate plans**.
 {% endhint %}
 
-* **Part 1**: On the Delyva platform&#x20;
-* **Part 2**: On the Shoppego platform&#x20;
+* **Part 1**: On the Delyva platform
+* **Part 2**: On the Shoppego platform
 * **Part 3**: How to fulfill an order
 
 ## Part 1: Setting up Delyva
@@ -22,7 +22,7 @@ Please ensure that you already have a **Delyva account**.
 
 ![](../../../.gitbook/assets/-MgdLFQeW5N0XczyliuB.png)
 
-2\.  In the **Dashboard**, click on your Name in the top right corner.
+2\. In the **Dashboard**, click on your Name in the top right corner.
 
 ![](../../../.gitbook/assets/-Mgd8zqqdCshPUiMK6wV.jpg)
 
@@ -125,18 +125,18 @@ Guide to setting up order management in the Shoppego platform to **generate an A
 
 ![](../../../.gitbook/assets/Snrqd2SFXavpmDkJNkAO.jpg)
 
-4\. Click on '**Choose Services**'. **Click** on any courier service you want to use. The price has been determined according to the address provided in the order.&#x20;
+4\. Click on '**Choose Services**'. **Click** on any courier service you want to use. The price has been determined according to the address provided in the order.
 
 ![](../../../.gitbook/assets/dL3zOiXfkmN22agi99V7.jpg)
 
 5.Next, click on '**Method**' and choose '**Dropoff**' or '**Pickup**'.
 
 {% hint style="info" %}
-**Method** :&#x20;
+**Method** :
 
-* **Dropoff** - You will personally go to the nearby post office and send the item.&#x20;
+* **Dropoff** - You will personally go to the nearby post office and send the item.
 * **Pickup** - The courier will send a vehicle to pick up the item at the location specified in your Location settings
-  {% endhint %}
+{% endhint %}
 
 ![](../../../.gitbook/assets/vNNJgWxQMXlok1HCGm2z.jpg)
 
@@ -164,7 +164,7 @@ An **Airway Bill (AWB)** for this order has been automatically generated, and yo
 
 8. After completing the '**Add Shipment**' process, check the **Delyva Dashboard** to ensure that the information that appears is the same.
 
-![](../../../.gitbook/assets/-MBlPN8_WNcfwtlueWnn.jpg)
+![](../../../.gitbook/assets/-MBlPjueEZZL-DnOIsfS.jpg)
 
 9. **Update the tracking information** to the customer after the courier has picked up the item. **Click** on that order, and the display will be as shown in the image below. Next, click on '**Add Tracking'.**
 

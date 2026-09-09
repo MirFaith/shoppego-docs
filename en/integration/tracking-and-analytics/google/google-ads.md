@@ -13,14 +13,14 @@ For "forms", you can still follow this tutorial. However, you need to choose the
 {% endhint %}
 
 {% content-ref url="google-analytics.md" %}
-[Google Analytics](google-analytics.md)
+[google-analytics.md](google-analytics.md)
 {% endcontent-ref %}
 
 ## Log in to your Google Ads account
 
-You can **log in** to your **Google Ads account** first to make these settings. You can click on this link to log in: <https://ads.google.com/home/>
+You can **log in** to your **Google Ads account** first to make these settings. You can click on this link to log in: [https://ads.google.com/home/](https://ads.google.com/home/)
 
-![](../../../../.gitbook/assets/cb652235034f8f8f739b6f5c.png)
+![](../../../../.gitbook/assets/68ojYBq7oXs912ELlG6U.png)
 
 1. On the **Dashboard**, you can click on the **TOOLS & SETTINGS** button.
 
@@ -40,7 +40,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 5. Then, you need to enter your **website name** or **domain name**. Then you can **press** the **Scan button**. After that, you can press the **Save and Continue** button.
 
-<figure><img src="../../../../.gitbook/assets/HCGgBhq0NFud6hc86p6F.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/35uzIbieN9WRiNfCudmc.jpg" alt=""><figcaption></figcaption></figure>
 
 6. You need to make sure that the **domain name listed** in the **Website domain section is correct.** Then, you can press **Add a conversion action manually.**
 
@@ -88,7 +88,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 <figure><img src="../../../../.gitbook/assets/lbiNmTE3VRXpB5ZFIlyq.jpg" alt=""><figcaption></figcaption></figure>
 
-## Get Add to Cart Label ID:&#x20;
+## Get Add to Cart Label ID:
 
 3. Then, **press New Conversion Action** to get the **Label value for Add to Cart** and **Begin Checkout.**
 
@@ -100,7 +100,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 5. Then, you need to **enter your website name** or **domain name.** Then you can press the **Scan** button. After that, you can press the **Save and Continue** button.
 
-<figure><img src="../../../../.gitbook/assets/HCGgBhq0NFud6hc86p6F.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/35uzIbieN9WRiNfCudmc.jpg" alt=""><figcaption></figcaption></figure>
 
 6. Make sure your **domain name is written** in the designated field on Website Domain. Then, you can **press Add a conversion action manually.**
 
@@ -118,7 +118,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 <figure><img src="../../../../.gitbook/assets/ndPPc1IGlaoxddPdHYQF.jpg" alt=""><figcaption></figcaption></figure>
 
-### Add to Cart Label ID:&#x20;
+### Add to Cart Label ID:
 
 1. On this page, you can **press See event snippet**.
 
@@ -128,7 +128,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 <figure><img src="../../../../.gitbook/assets/hwpt5blB0pE9yuCzvYKa.jpg" alt=""><figcaption></figcaption></figure>
 
-## Get Begin Checkout Label ID&#x20;
+## Get Begin Checkout Label ID
 
 1. To start setting up to get the **label for Begin Checkout**, you need to **press the New Conversion Action** button.
 
@@ -140,7 +140,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 3. Then, you need to **enter your website name** or **domain name**. After that, you can press the **Scan** button. When finished, you can press the **Save and Continue** button.
 
-<figure><img src="../../../../.gitbook/assets/HCGgBhq0NFud6hc86p6F.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/35uzIbieN9WRiNfCudmc.jpg" alt=""><figcaption></figcaption></figure>
 
 4. Make sure your **domain name is written** in the designated field on **Website Domain**. Then, you can **press Add a conversion action manually**.
 
@@ -154,7 +154,7 @@ You can **log in** to your **Google Ads account** first to make these settings. 
 
 <figure><img src="../../../../.gitbook/assets/JxVzj3uDuPO2322LTWlV.jpg" alt=""><figcaption></figcaption></figure>
 
-## Add to Cart Label ID&#x20;
+## Add to Cart Label ID
 
 1. On that page, you can **press See event snippet.**
 

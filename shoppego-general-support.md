@@ -1,8 +1,11 @@
+---
+hidden: true
+---
+
 # Shoppego General Support
 
 {% tabs %}
 {% tab title="Monthly" %}
-
 #### Basic
 
 RM 59 /mo
@@ -70,7 +73,6 @@ RM 299 /mo
 {% endtab %}
 
 {% tab title="Yearly" %}
-
 #### Basic
 
 RM 349 /yr

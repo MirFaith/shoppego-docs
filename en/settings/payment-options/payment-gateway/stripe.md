@@ -12,9 +12,9 @@ The minimum transaction amount for Stripe is at least RM2.00
 
 ## Get an API key on Stripe
 
-1\. Stripe account registration can be done at: <https://dashboard.stripe.com/register>
+1\. Stripe account registration can be done at: [https://dashboard.stripe.com/register](https://dashboard.stripe.com/register)
 
-2\. To get the **live key** you can find it on the dashboard or just click this link: <https://dashboard.stripe.com/login?redirect=%2Faccount%2Fapikeys>
+2\. To get the **live key** you can find it on the dashboard or just click this link: [https://dashboard.stripe.com/login?redirect=%2Faccount%2Fapikeys](https://dashboard.stripe.com/login?redirect=%2Faccount%2Fapikeys)
 
 3\. Once you get the **Publishable key** and **Secret key** you can save the key for setting in Shoppego.
 
@@ -23,10 +23,9 @@ The minimum transaction amount for Stripe is at least RM2.00
 ## Webhooks settings at Stripe
 
 There are **2 types of webhooks** that you need to enter in the webhooks settings of your Stripe account, namely:\
-1\. <https://hartamas.myshoppegram.co&#x6D;**/webhooks/payments/callback/checkouts/stripe**\\>
-2\. <https://hartamas.myshoppegram.co&#x6D;**/webhooks/payments/callback/typ\\_offer/stripe>\*\*
+1\. [https://hartamas.myshoppegram.co\&#x6D;\*\*/webhooks/payments/callback/checkouts/stripe\*\*\\\\](https://hartamas.myshoppegram.co&/#x6D;**/webhooks/payments/callback/checkouts/stripe**\\\\) 2. [https://hartamas.myshoppegram.co\&#x6D;\*\*/webhooks/payments/callback/typ\\\\\_offer/stripe](https://hartamas.myshoppegram.co&/#x6D;**/webhooks/payments/callback/typ\\\\_offer/stripe)\*\*
 
-You are **required to replace the <https://hartamas.myshoppegram.com> with the URL <https://subdomain.myshoppegram.com> of your own website which has been given for free during the registration of your Shoppego account**.
+You are **required to replace the** [**https://hartamas.myshoppegram.com**](https://hartamas.myshoppegram.com) **with the URL** [**https://subdomain.myshoppegram.com**](https://subdomain.myshoppegram.com) **of your own website which has been given for free during the registration of your Shoppego account**.
 
 You can find your subdomain URL in the following section:\
 Dashboard Overview Shoppego -> **Settings** -> **Custom domain** -> **Subdomain**
@@ -35,7 +34,7 @@ Dashboard Overview Shoppego -> **Settings** -> **Custom domain** -> **Subdomain*
 
 You can refer to examples of setting webhooks below:
 
-1. In the Stripe dashboard, you can click on the **Developers** -> **Webhooks** section. You can also click on this link directly: <https://dashboard.stripe.com/webhooks>
+1. In the Stripe dashboard, you can click on the **Developers** -> **Webhooks** section. You can also click on this link directly: [https://dashboard.stripe.com/webhooks](https://dashboard.stripe.com/webhooks)
 
 <figure><img src="../../../../.gitbook/assets/CpjwIAo8ZjwuuYrEEMAS.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +42,7 @@ You can refer to examples of setting webhooks below:
 
 <figure><img src="../../../../.gitbook/assets/OuVy4UW3iXmuB2PvOKBk.jpg" alt=""><figcaption></figcaption></figure>
 
-3. Next, you can **enter one of your unique webhooks store URLs in the Endpoint URL section**. For example here, we have entered this URL first: <https://hartamas.myshoppegram.com/webhooks/payments/callback/checkouts/stripe>
+3. Next, you can **enter one of your unique webhooks store URLs in the Endpoint URL section**. For example here, we have entered this URL first: [https://hartamas.myshoppegram.com/webhooks/payments/callback/checkouts/stripe](https://hartamas.myshoppegram.com/webhooks/payments/callback/checkouts/stripe)
 
 <figure><img src="../../../../.gitbook/assets/Ik4VT0UP5PyIaSt12KgA.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +72,7 @@ You can refer to examples of setting webhooks below:
 
 10. If you are taken to this page, you can simply click again on the **Webhooks** button
 
-<figure><img src="../../../../.gitbook/assets/FC8Yy0t7RSutBqI806GG.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4x6TKKV933cjpI9JZssW.jpg" alt=""><figcaption></figcaption></figure>
 
 11. Later, you will be taken back to the Webhooks page and you can see the endpoint setting you just made earlier. Next, you can **repeat the steps above and enter the second endpoint/webhooks URL**.
 
@@ -97,7 +96,7 @@ Once finished, you should have **2 endpoints/webhooks URL** as shown below:
 
 ![](../../../../.gitbook/assets/CA5qmbxGnMXdjUXh5W4M.jpg)
 
-4\. If you have not enabled the payment option for Stripe. Click the **Activate** button in the Alternative Payments for Stripe section.&#x20;
+4\. If you have not enabled the payment option for Stripe. Click the **Activate** button in the Alternative Payments for Stripe section.
 
 If you have enabled the payment option for Stripe, click the **Edit** button.
 

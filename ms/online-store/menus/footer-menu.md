@@ -1,40 +1,40 @@
 ---
-description: "Tutorial cara membina Footer Menu"
+description: Tutorial cara membina Footer Menu
 ---
 
 # Footer Menu
 
-Untuk membuat tetapan pada menu terdapat 2 langkah iaitu:-&#x20;
+Untuk membuat tetapan pada menu terdapat 2 langkah iaitu:-
 
-1. Membina Page/Category&#x20;
+1. Membina Page/Category
 
 * Rujuk tutorial bina page di link berikut: [**Pages**](../custom-pages/build-pages.md)
 
 {% content-ref url="../custom-pages/build-pages.md" %}
-[Build Pages](../custom-pages/build-pages.md)
+[build-pages.md](../custom-pages/build-pages.md)
 {% endcontent-ref %}
 
 * Rujuk tutorial bina category di link berikut: [**Categories**](../../products/categories.md)
 
 {% content-ref url="../../products/categories.md" %}
-[Categories](../../products/categories.md)
+[categories.md](../../products/categories.md)
 {% endcontent-ref %}
 
-2. Mencipta menu kepada page/category.&#x20;
+2. Mencipta menu kepada page/category.
 
-Tutorial ini akan terus kepada langkah kedua. Sekiranya Page atau Categories masih lagi belum dicipta boleh ikuti tutorial seperti link di atas.&#x20;
+Tutorial ini akan terus kepada langkah kedua. Sekiranya Page atau Categories masih lagi belum dicipta boleh ikuti tutorial seperti link di atas.
 
 ## Bahagian 1 : Mencipta Footer Menu
 
 1. Log masuk ke dashboard dan pergi kepada **Online Store -> Menus.**\
-   Paparan seperti di bawah akan keluar.&#x20;
+   Paparan seperti di bawah akan keluar.
 
 ![](../../../.gitbook/assets/cI9GzM1hEBHZyrz7nYJM.jpg)
 
-2. Klik pada butang **Add Menu.** Masukkan perkataan **Footer menu** pada ruangan **Title.**&#x20;
+2. Klik pada butang **Add Menu.** Masukkan perkataan **Footer menu** pada ruangan **Title.**
 
 {% hint style="info" %}
-\*\*<mark style="color:red;">**Perhatian**</mark>: Pastikan **ejaan** dan huruf besar atau kecil adalah **sama**. seperti di dalam gambar di bawah.&#x20;
+\*\*<mark style="color:red;">**Perhatian**</mark>: Pastikan **ejaan** dan huruf besar atau kecil adalah **sama**. seperti di dalam gambar di bawah.
 {% endhint %}
 
 3. Klik butang **Save**
@@ -53,7 +53,7 @@ Tutorial ini akan terus kepada langkah kedua. Sekiranya Page atau Categories mas
 
 Pada ruang link masukkan handle sahaja. Contoh adalah seperti dibawah.
 
-* **Pages :   /pages/nama-page-anda**
+* **Pages : /pages/nama-page-anda**
 * **Categories : /categories/nama-category-anda**
 
 {% hint style="info" %}
@@ -67,13 +67,13 @@ Sebagai contoh:
 
 ### 1 : Dapatkan Link bagi Pages
 
-&#x20;Terdapat **dua cara** untuk dapatkan link mengikut interface builder anda:&#x20;
+Terdapat **dua cara** untuk dapatkan link mengikut interface builder anda:
 
-1. &#x20;**Pages**:  Pergi ke **Online store** -> **Pages**-> klik butang **Edit** pada **Nama page** dan copy **URL**.
+1. **Pages**: Pergi ke **Online store** -> **Pages**-> klik butang **Edit** pada **Nama page** dan copy **URL**.
 
-![](../../../.gitbook/assets/-MBceTETTRNE9jA60eH1.png)
+![](../../../.gitbook/assets/-MBcdI5yhwTji5x4SY_8.png)
 
-2. **Pages**:  Pergi ke **Online store** -> **Pages**-> **Edit** -> **More** -> **Settings** -> **SEO** -> copy **URL**.
+2. **Pages**: Pergi ke **Online store** -> **Pages**-> **Edit** -> **More** -> **Settings** -> **SEO** -> copy **URL**.
 
 <figure><img src="../../../.gitbook/assets/FDs5ZD3CvPoMGNgDv7Ep.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -81,9 +81,9 @@ Sebagai contoh:
 
 **Categories**: Pergi ke **Products** -> **Categories** -> klik **Edit** pada **categories** -> klik tab **SEO** copy **URL.**
 
-![](../../../.gitbook/assets/-MBcenidH8Qq7TCHaFax.png)
+![](../../../.gitbook/assets/-MBcdPKYpnsNmZYQF_v3.png)
 
-Paste kan URL tu pada ruangan Link. Contoh adalah seperti gambar di bawah.&#x20;
+Paste kan URL tu pada ruangan Link. Contoh adalah seperti gambar di bawah.
 
 {% hint style="info" %}
 \*\*<mark style="color:red;">**Perhatian**</mark>: Sila pastikan <mark style="color:red;">**ejaan**</mark> pada **Link menu items** yang anda telah salin dari **SEO Page** dan **SEO Categories** adalah <mark style="color:red;">**sama**</mark>.

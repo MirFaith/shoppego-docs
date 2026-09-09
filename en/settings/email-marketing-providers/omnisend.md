@@ -1,18 +1,18 @@
 ---
-description: "Tutorial setting up Omnisend"
+description: Tutorial setting up Omnisend
 ---
 
 # Omnisend
 
 To set up **Omnisend**, you need to obtain an **API Key from Omnisend** and enter the key you have obtained into the commerce system.
 
-## Login to Omnisend account&#x20;
+## Login to Omnisend account
 
-1. You can log in to your **Omnisend** account [**here** ](https://app.omnisend.com/login)or at this link: <https://app.omnisend.com/login>
+1. You can log in to your **Omnisend** account [**here** ](https://app.omnisend.com/login)or at this link: [https://app.omnisend.com/login](https://app.omnisend.com/login)
 
-<figure><img src="../../../.gitbook/assets/lLGDmexv6uuRIm6Gwo4L.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/btba1zTnncZGRX2d342W.png" alt=""><figcaption></figcaption></figure>
 
-## Get Omnisend API key&#x20;
+## Get Omnisend API key
 
 1. You will be taken to the **Omnisend Dashboard,** you need to click on the **top right** and the **dropdown** that is there.
 
@@ -42,21 +42,21 @@ To set up **Omnisend**, you need to obtain an **API Key from Omnisend** and ente
 
 2. Next, you can click on the **Email Marketing Provider.**
 
-<figure><img src="../../../.gitbook/assets/XRu0HKEGisJFRJ08jbPE.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ceUEe1Um6B1rRxVGuYPo.jpg" alt=""><figcaption></figcaption></figure>
 
 3. After that, you can click the **Activate** button to enable **Omnisend** and click **Edit**.
 
-<figure><img src="../../../.gitbook/assets/9PQHboGL5YVS8rx2d3jP.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3NzLWu9bweEwLLZnL6GB.jpg" alt=""><figcaption></figcaption></figure>
 
-4. After that, you need to enter the **API key** that you have obtained from **Omnisend** into the provided field. You can also add a **Tag**.&#x20;
+4. After that, you need to enter the **API key** that you have obtained from **Omnisend** into the provided field. You can also add a **Tag**.
 
 {% hint style="info" %}
-\*\*<mark style="color:red;">**Note**</mark>:&#x20;
+\*\*<mark style="color:red;">**Note**</mark>:
 
-* **Tag** - Used to place registered customers into the group you desire.&#x20;
+* **Tag** - Used to place registered customers into the group you desire.
 * If you want to enter more than one **Tag**, you can **place a comma in the Tag**.\
   **Example**: Marketing1,Marketing2
-  {% endhint %}
+{% endhint %}
 
 5. Make sure to **turn on** the **Enable** toggle to use **Omnisend**.
 

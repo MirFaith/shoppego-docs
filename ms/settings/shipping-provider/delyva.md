@@ -1,6 +1,6 @@
 # Delyva
 
-Penetapan ini mengandungi 3 bahagian iaitu :&#x20;
+Penetapan ini mengandungi 3 bahagian iaitu :
 
 {% hint style="success" %}
 Fungsi ini tersedia untuk **plan Premium** dan **Ultimate**.
@@ -12,17 +12,17 @@ Fungsi ini tersedia untuk **plan Premium** dan **Ultimate**.
 
 ## **Bahagian 1 : Penetapan Delyva**
 
-Pastikan anda sudah mempunyai akaun Delyva.&#x20;
+Pastikan anda sudah mempunyai akaun Delyva.
 
 {% hint style="info" %}
-[Klik sini](https://my.delyva.app/customer/login) untuk pendaftaran [Delyva](https://my.delyva.app/customer/login). Pendaftaran Delyva adalah **percuma**.&#x20;
+[Klik sini](https://my.delyva.app/customer/login) untuk pendaftaran [Delyva](https://my.delyva.app/customer/login). Pendaftaran Delyva adalah **percuma**.
 {% endhint %}
 
 1. Log masuk ke akaun **Delyva.**
 
 ![](../../../.gitbook/assets/-MgdLFQeW5N0XczyliuB.png)
 
-2\.  Di dalam Dashboard,  klik pada **Nama anda** di **bahagian penjuru kanan atas.**
+2\. Di dalam Dashboard, klik pada **Nama anda** di **bahagian penjuru kanan atas.**
 
 ![](../../../.gitbook/assets/-Mgd8zqqdCshPUiMK6wV.jpg)
 
@@ -41,13 +41,13 @@ Pastikan anda sudah mempunyai akaun Delyva.&#x20;
 
 ### **1 : Company ID**
 
-1\. Di dalam halaman **API Integrations** tersebut anda boleh dapatkan nilai **Company ID** anda. Anda boleh rujuk paparan dibawah :&#x20;
+1\. Di dalam halaman **API Integrations** tersebut anda boleh dapatkan nilai **Company ID** anda. Anda boleh rujuk paparan dibawah :
 
 ![](../../../.gitbook/assets/-MgdC6tg-mHtVokj0LHm.jpg)
 
 ### **2 : Customer ID**
 
-1\. Di dalam halaman **API Integrations** tersebut anda boleh dapatkan nilai **Customer ID** anda. Anda boleh rujuk paparan dibawah :&#x20;
+1\. Di dalam halaman **API Integrations** tersebut anda boleh dapatkan nilai **Customer ID** anda. Anda boleh rujuk paparan dibawah :
 
 ![](../../../.gitbook/assets/-MgdEMDlxN9H5s_VaOH7.jpg)
 
@@ -95,7 +95,7 @@ Anda boleh **masukkan sahaja nama** yang anda inginkan sebagai rujukan anda.
 
 ![](../../../.gitbook/assets/bjhyk72RwJecx6Ra8OD7.jpg)
 
-4. Setelah anda masukkan kesemua maklumat tersebut, anda boleh klik **Save**. Rujuk gambar di bawah.&#x20;
+4. Setelah anda masukkan kesemua maklumat tersebut, anda boleh klik **Save**. Rujuk gambar di bawah.
 
 {% hint style="success" %}
 Pastikan kotak **Enable Delyva (Matdespatch)** ditandakan dengan **klik** pada kotak tersebut.
@@ -103,17 +103,17 @@ Pastikan kotak **Enable Delyva (Matdespatch)** ditandakan dengan **klik** pada k
 
 ![](../../../.gitbook/assets/-MgdKuYBguyt7MrLiEgu.jpg)
 
-Kini Shoppego anda telah siap di hubungkan dengan platform **Delyva**.&#x20;
+Kini Shoppego anda telah siap di hubungkan dengan platform **Delyva**.
 
 {% hint style="success" %}
-Pastikan akaun anda mempunyai **kredit yang cukup** untuk menggunakan sistem **Delyva**.&#x20;
+Pastikan akaun anda mempunyai **kredit yang cukup** untuk menggunakan sistem **Delyva**.
 {% endhint %}
 
 ## **Bahagian 3 : Cara Fulfill Order**
 
-Tutorial penetapan pada bahagian untuk cara urus order bagi menjana Airway Bill di platform Delyva tanpa perlu log masuk dan hanya menggunakan platform Shoppego sahaja. <br>
+Tutorial penetapan pada bahagian untuk cara urus order bagi menjana Airway Bill di platform Delyva tanpa perlu log masuk dan hanya menggunakan platform Shoppego sahaja.<br>
 
-1. Log masuk ke **Dashboard Shoppego** -> **Orders** di panel kir&#x69;**.**&#x20;
+1. Log masuk ke **Dashboard Shoppego** -> **Orders** di panel kir&#x69;**.**
 
 ![](../../../.gitbook/assets/lasUUilnpBxcaM16QKJd.png)
 
@@ -125,18 +125,18 @@ Tutorial penetapan pada bahagian untuk cara urus order bagi menjana Airway Bill 
 
 ![](../../../.gitbook/assets/Snrqd2SFXavpmDkJNkAO.jpg)
 
-4\. Klik pada **Choose Services.** Klik pada mana-mana courier service yang anda mahu gun&#x61;**.** Harga telah ditentukan mengikut alamat yang ada pada order.&#x20;
+4\. Klik pada **Choose Services.** Klik pada mana-mana courier service yang anda mahu gun&#x61;**.** Harga telah ditentukan mengikut alamat yang ada pada order.
 
 ![](../../../.gitbook/assets/dL3zOiXfkmN22agi99V7.jpg)
 
 5\. Seterusnya klik pada method dan pilih **Dropoff** atau **Pickup.**
 
 {% hint style="info" %}
-**Method** :&#x20;
+**Method** :
 
-* **Dropoff -** Anda sendiri akan pergi ke pejabat pos berhampiran dan hantarkan barang.&#x20;
+* **Dropoff -** Anda sendiri akan pergi ke pejabat pos berhampiran dan hantarkan barang.
 * **Pickup** - Pihak courier akan menghantar kenderaan untuk mengambil barang yang telah di pesan di alamat yang telah ditetapkan pada penetapan Location anda.
-  {% endhint %}
+{% endhint %}
 
 ![](../../../.gitbook/assets/vNNJgWxQMXlok1HCGm2z.jpg)
 
@@ -147,14 +147,14 @@ Tutorial penetapan pada bahagian untuk cara urus order bagi menjana Airway Bill 
 <figure><img src="../../../.gitbook/assets/WhMewIhW0XYkCKHoNP3V.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Biasanya Method **Pickup** akan dipilih bagi memudahkan para penjual.&#x20;
+Biasanya Method **Pickup** akan dipilih bagi memudahkan para penjual.
 {% endhint %}
 
-6. Apabila **Method Pickup** dipilih, **jadual** akan dipaparkan untuk pilihan tarikh pengambilan oleh pihak courier. Klik pada tarikh yang anda mahukan dan kemudian klik butang **Submit**. Rujuk gambar dibawah.&#x20;
+6. Apabila **Method Pickup** dipilih, **jadual** akan dipaparkan untuk pilihan tarikh pengambilan oleh pihak courier. Klik pada tarikh yang anda mahukan dan kemudian klik butang **Submit**. Rujuk gambar dibawah.
 
 <figure><img src="../../../.gitbook/assets/LmBo0DYgwr9lUYZ68hpu.jpg" alt=""><figcaption></figcaption></figure>
 
-7. Setelah klik butang **Submit**, order anda akan automatik mendapat tracking number seperti gambar dibawah.&#x20;
+7. Setelah klik butang **Submit**, order anda akan automatik mendapat tracking number seperti gambar dibawah.
 
 {% hint style="info" %}
 Satu **Airwaybill (AWB)** terhadap order ini telah pun **dijana secara automatik** dan anda hanya perlu **cetak AWB** ni dari platform **Delyva**.
@@ -162,9 +162,9 @@ Satu **Airwaybill (AWB)** terhadap order ini telah pun **dijana secara automatik
 
 <figure><img src="../../../.gitbook/assets/o21IcxEDTN7Sf7g0Qk7Y.jpg" alt=""><figcaption></figcaption></figure>
 
-8. Setelah proses **Add Shipment** dibuat, semak di dalam Dashboard Delyva untuk pastikan maklumat yang akan keluar adalah sama.&#x20;
+8. Setelah proses **Add Shipment** dibuat, semak di dalam Dashboard Delyva untuk pastikan maklumat yang akan keluar adalah sama.
 
-![](../../../.gitbook/assets/-MBlPN8_WNcfwtlueWnn.jpg)
+![](../../../.gitbook/assets/-MBlPjueEZZL-DnOIsfS.jpg)
 
 9. Kemaskini **Tracking kepada customer**﻿ setelah pihak courier mengambil barang. Klik pada **Order** tersebut dan paparan adalah seperti gambar di bawah. Seterusnya klik pada **Add Tracking.**
 
@@ -174,22 +174,22 @@ Satu **Airwaybill (AWB)** terhadap order ini telah pun **dijana secara automatik
 
 <figure><img src="../../../.gitbook/assets/L6y2edTzdQi6Ox49ixM7.jpg" alt=""><figcaption></figcaption></figure>
 
-11. Apabila butang **Save** ditekan, pelanggan anda akan mendapat email nombor tracking mereka secara automatik dari sistem Shoppego. **Nombor tracking** ini juga akan keluar di sebelah kanan order anda apabila ianya di **Save**.&#x20;
+11. Apabila butang **Save** ditekan, pelanggan anda akan mendapat email nombor tracking mereka secara automatik dari sistem Shoppego. **Nombor tracking** ini juga akan keluar di sebelah kanan order anda apabila ianya di **Save**.
 
 <figure><img src="../../../.gitbook/assets/Y1xJmZiu7VwK8wIwyXwj.jpg" alt=""><figcaption></figcaption></figure>
 
-12. Anda juga boleh perhatikan pada **orders list** untuk lihat bahawa order tersebut telah diletakkan **nombor tracking**.&#x20;
+12. Anda juga boleh perhatikan pada **orders list** untuk lihat bahawa order tersebut telah diletakkan **nombor tracking**.
 
 {% hint style="info" %}
-Tekan ikon **i** pada Fullfillment untuk anda semak **tracking number order** tersebut.&#x20;
+Tekan ikon **i** pada Fullfillment untuk anda semak **tracking number order** tersebut.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/dB6BJxLn7QIPN2RzeJcs.jpg" alt=""><figcaption></figcaption></figure>
 
-13. Untuk **cetak Airwaybill (AWB)**, anda perlu **log masuk** ke dalam akaun Delyva, dan klik pada **ikon printer** untuk **print AWB** tersebut.&#x20;
+13. Untuk **cetak Airwaybill (AWB)**, anda perlu **log masuk** ke dalam akaun Delyva, dan klik pada **ikon printer** untuk **print AWB** tersebut.
 
 ![](../../../.gitbook/assets/-MBlPjueEZZL-DnOIsfS.jpg)
 
-14. Klik ikon **print** untuk **cetak Airwaybill(AWB)** ini dan tampalkan pada parcel anda.&#x20;
+14. Klik ikon **print** untuk **cetak Airwaybill(AWB)** ini dan tampalkan pada parcel anda.
 
 ![](../../../.gitbook/assets/-MBlPoIT8xIsmEUcxDMN.jpg)

@@ -4,7 +4,7 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Tutorials
+      title: Shoppego
       path: tutorials
       default: true
       content:

@@ -2,7 +2,7 @@
 
 Shoppego now allows you to connect Claude or ChatGPT to your store, enabling it to create and manage your pages, forms, themes and products.
 
-The MCP connector URL for your store is as follows: https\://\[namasubdomain].myshoppegram.com/mcp
+The MCP connector URL for your store is as follows: https://\[namasubdomain].myshoppegram.com/mcp
 
 ## On this page:
 
@@ -90,7 +90,7 @@ The MCP connector URL for your store is as follows: https\://\[namasubdomain].my
 
 ## Connecting Claude
 
-1. Log in to your Claude account and click on "**Settings**" > "**Connectors**".<https://claude.ai/customize/connectors>
+1. Log in to your Claude account and click on "**Settings**" > "**Connectors**".[https://claude.ai/customize/connectors](https://claude.ai/customize/connectors)
 
 <figure><img src="../../.gitbook/assets/YtcVWQlUQqE3ja5URQyX.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -105,3 +105,8 @@ The MCP connector URL for your store is as follows: https\://\[namasubdomain].my
 ## Additional Information
 
 For any pages or forms created using this MCP, you cannot make any custom changes to the page content via the builder editor or similar tools.
+
+You can obtain your own MCP server by going to:\
+**Shoppego Dashboard > Settings > Custom domain > Copy your subdomain URL**. Then, **add "/mcp" to the end of that subdomain URL**.
+
+**Your MCP server URL should look like this: https://\[subdomainname].myshoppegram.com/mcp**

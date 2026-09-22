@@ -24,7 +24,7 @@ You need to make sure you have:
 **Before following this tutorial, ensure that your AffanPay account has been verified and that you are not using a test account.**
 {% endhint %}
 
-To integrate payment gateway AffanPay with Shoppego, you need to get a **Secret Key**.\
+To integrate payment gateway AffanPay with Shoppego, you need to get a **Secret Key** and **API token**.\
 \
 If you haven't registered for an Affanpay account yet, you can use this link:\
 [https://app.affanpay.my/register](https://app.affanpay.my/register)
@@ -36,6 +36,16 @@ If you haven't registered for an Affanpay account yet, you can use this link:\
 <figure><img src="../../../../.gitbook/assets/shoppego-x-affanpay-dashboard.jpg" alt=""><figcaption></figcaption></figure>
 
 2. Click on the **Settings > Developers** button/text. You will then be able to view your account's **Secret key**, which you can copy and enter into the Shoppego settings.
+
+### Get API Token
+
+1. Log in to your AffanPay account.
+
+<figure><img src="../../../../.gitbook/assets/shoppego-x-affanpay-dashboard.jpg" alt=""><figcaption></figcaption></figure>
+
+2. Click on the **Settings > Developers** button/text.&#x20;
+3. Under **API tokens**, **give the token a name for your own reference** and click **Generate token**.
+4. You can **copy the token straight away to enter in Shoppego settings later on**. **The token is shown once and cannot be retrived again**.&#x20;
 
 ## Settings on Shoppego
 
@@ -57,15 +67,14 @@ If you haven't registered for an Affanpay account yet, you can use this link:\
 
 5\. Next, the display shown below will appear, and you can fill in the information:
 
-![](../../../../.gitbook/assets/dashboard-shoppego-affanpay.jpg)
+![](<../../../../.gitbook/assets/dashboard-shoppego-affanpay (1).jpg>)
 
 * **Display name at checkout : Enter the payment name you want (Example AffanPay)**
-* **Email :** **Enter your AffanPay account email.**
-* **Password : Enter your AffanPay account password.**
+* **API token :** **Enter the AffanPay account API token that you just obtained in the previous step.**
 * **Secret Key : Enter the Secret Key for your AffanPay account that you just copied in the previous step.**
 
 6\. After finishing, make sure you have clicked **Enable** and click the **Save** button.
 
-![](../../../../.gitbook/assets/dashboard-shoppego-affanpay-click-save.jpg)
+![](<../../../../.gitbook/assets/dashboard-shoppego-affanpay-click-save (1).jpg>)
 
 After saving, you can attempt a purchase on your website to view the AffanPay payment option at checkout and verify the settings you just configured.

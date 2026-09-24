@@ -38,18 +38,52 @@ Before starting this setup, you need to make sure you have **registered a Klasik
 
 3\. Click on the **SMS providers** tab
 
-![](../../../.gitbook/assets/-MMTLOzl1q8rbhucu31A.png)
+![](../../../.gitbook/assets/dashboard-shoppego-settings-click-sms-providers.jpg)
 
 4\. Click the **Activate** button on the **KlasikSMS** tab
 
-![](../../../.gitbook/assets/-MMTOnD1gBF5WcNBzf5y.png)
+![](../../../.gitbook/assets/dashboard-shoppego-sms-providers-click-klasiksms.jpg)
 
 5\. Enter the information you have saved in the space provided. For the prefix field, you can enter the text **Short Code Whitelisted Company Name** that you just copied in the previous step. You also need to make sure you have clicked **Enable Classic SMS (Make sure it is blue)**.
 
-![](../../../.gitbook/assets/-MMTOtjQux5FUQDjJipp.png)
+![](../../../.gitbook/assets/dashboard-shoppego-klasiksms.jpg)
 
 6\. Once done you can click **Save**
 
-![](../../../.gitbook/assets/-MMTPfP_1gpEH85m3Z6x.png)
+![](../../../.gitbook/assets/dashboard-shoppego-klasiksms-click-save.jpg)
 
 Once done you can try to make a purchase on your website and see the results for yourself.
+
+### Notification Settings
+
+1. Log in to your Shoppego account
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego.jpg" alt=""><figcaption></figcaption></figure>
+
+2. Click on **Settings**
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego-click-settings.jpg" alt=""><figcaption></figcaption></figure>
+
+3. Click on **Notifications**
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego-settings-click-notifications.jpg" alt=""><figcaption></figcaption></figure>
+
+4. You can click on **any notification** for which you wish to set an SMS message delivery template.
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego-notifications-click-edit.jpg" alt=""><figcaption></figcaption></figure>
+
+5. Click on the **SMS** tab.
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego-order-confirmation-click-sms.jpg" alt=""><figcaption></figcaption></figure>
+
+6. Make sure **your SMS template is the same as the one you have submitted on KlasikSMS**.\
+   \
+   For example: The **template in your KlasikSMS** is "**RM0 Shoppego : Barang anda sedang di proses.**"\
+   \
+   So, the **text you need to enter in the Shoppego setting** is "**: Barang anda sedang di proses.**"
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego-order-confirmation-sms.jpg" alt=""><figcaption></figcaption></figure>
+
+7. Once finished, click **Save**.
+
+<figure><img src="../../../.gitbook/assets/dashboard-shoppego-order-confirmation-sms-click-save.jpg" alt=""><figcaption></figcaption></figure>
